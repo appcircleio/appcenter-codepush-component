@@ -1,7 +1,7 @@
 platform: Common
 buildPlatform: ReactNative
 displayName: App Center CodePush
-description: "Release a React Native update to App Center CodePush."
+description: "⛔️ DEPRECATED - App Center was retired on 31 March 2025. Release a React Native update to App Center CodePush."
 inputs:
 - key: "AC_APPCENTER_TOKEN"
   defaultValue: "$AC_APPCENTER_TOKEN"
